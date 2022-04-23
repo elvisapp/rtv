@@ -19,6 +19,7 @@ import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.optic.rtv.R;
+
 import com.rtv.activities.client.MapClientActivity;
 import com.rtv.activities.driver.MapDriverActivity;
 
